@@ -11,7 +11,7 @@ NB: The base core prototype of the module script was developed with ChatGPT-4, t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/lib_circuitnet.git
+   git clone https://github.com/kevinhelvig/lib_circuitnet.git
    ```
 3. Navigate to the repository folder:
    ```
