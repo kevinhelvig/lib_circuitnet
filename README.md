@@ -28,7 +28,10 @@ NB: The base core prototype of the module script was developed with ChatGPT-4, t
 
 # References and hints :question:
 The [CircuitNet approach](https://openreview.net/pdf?id=Fl9q5z40e3) proposes a model that mimic more accurately how the brain looks to work regarding the "networks and graph theory" angle to study the brain : the different regions of the brain look to be organized following a ["small worlds" topology](https://pubmed.ncbi.nlm.nih.gov/17079517/), where densely connected nodules processes local or mono-modal information, with very sparse and limited connections between these different areas. 
-Interesting papers associated to be added. 
+
+Several interesting papers linked (to be completed)
+- [Building artificial neural circuits for domain-general cognition: a primer on brain-inspired systems-level architecture](https://arxiv.org/abs/2303.13651) , Achterberg et al., 2023
+
 
 # Future works ? :construction:
 
